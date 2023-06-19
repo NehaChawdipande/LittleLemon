@@ -1,6 +1,6 @@
 # Restaurant Reservation & Portfolio website - Little Lemon
 
-Please note that All stock images are from Unsplash.com
+Please note that All stock images used in the website are from Unsplash.com
 
 Demo image 1
 <img width="560" alt="image" src="https://github.com/NehaChawdipande/LittleLemon/assets/51154883/d7288123-5b02-4d0e-8875-6fe20bf81dda">
