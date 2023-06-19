@@ -1,6 +1,7 @@
 # Restaurant Reservation & Portfolio website - Little Lemon
 
-This is my final project for the Meta Front-End Developer Professional Certificate
+This is my final project for the Meta Front-End Developer Professional Certificate.
+
 Please note that All stock images used in the website are from Unsplash.com
 
 Demo image 1
